@@ -1,0 +1,16 @@
+POST http://localhost:3001/api/users 
+Content-Type: application/json
+
+{
+  "title": "Esto es una nueva nota",
+  "body": "Esto es el cuerpo de la nueva nota"
+}
+
+###
+
+POST http://localhost:3001/api/users 
+Content-Type: application/json
+
+{
+
+}
